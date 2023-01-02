@@ -1,5 +1,5 @@
 # **NOTE**
-This repository is outdated and had some bugs in the release, we have a monitered, licensed and fixed version over at [Withered-Knights](https://github.com/WitheredKnights/). If you did not get the crashing problem then I guess you can download it from here but probably it'll not work very well and it's an older version of Lunar Client I belive, basically I recommend you download the version over at [Withered-Knights](https://github.com/WitheredKnights/lunarCrack). 
+This repository is outdated and had some bugs in the release, we have a monitered, licensed and fixed version over at [Withered-Knights](https://github.com/WitheredKnights/). If you did not get the crashing problem then I guess you can download it from here but probably it'll not work very well and it's an older version of Lunar Client I believe, basically I recommend you download the version over at [Withered-Knights](https://github.com/WitheredKnights/lunarCrack). 
 
 
 
