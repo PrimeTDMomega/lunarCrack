@@ -1,10 +1,13 @@
+# **NOTE**
+This repository is outdated and had some bugs in the release, we have a monitered, licensed and fixed version over at [Withered-Knights](https://github.com/WitheredKnights/). If you did not get the crashing problem then I guess you can download it from here but probably it'll not work very well and it's an older version of Lunar Client I belive, basically I recommend you download the version over at [Withered-Knights](https://github.com/WitheredKnights/lunarCrack). 
+
+
+
 ## What is Lunar Client ?
 Lunar Client is a PvP Client for 1.8.9 Minecraft which is very popular and makes gameplay much more enjoyable for PvP in 1.8.9
 
 Lunar Client needs a premium Minecraft account to be used and does not work without it but this crack made by PrimeTDMomega (thats me) that does not require a premium Minecraft account and can be used in launchers such as TLauncher or even the Official Minecraft Launcher.
 
-## NOTE
-This repository is outdated and had some bugs in the release, we have a monitered, licensed and fixed version over at [Withered-Knights](https://github.com/Withered-Knights/lunarCrack). If you did not get the crash problem then if you want go ahead and download this but I recomend you use the one over at [Withered-Knights](https://github.com/Withered-Knights/lunarCrack).
 
 ## Installation 
 
